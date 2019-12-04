@@ -13,4 +13,4 @@ sequenceDiagram
 
 
 
-[I'm a relative reference to a repository file](./register)
+[I'm a relative reference to a repository file](./register.md)
