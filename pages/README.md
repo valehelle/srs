@@ -19,5 +19,6 @@ sequenceDiagram
 ```
 
 
-This is an example of linking to another file. You don't need to care about the version, we will take care of it for you.
+## This is an example of linking to another file. You don't need to care about the version, we will take care of it for you.
+
 [Im a link to the register file](./auth/register.md)
