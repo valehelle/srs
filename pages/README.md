@@ -2,7 +2,7 @@
 
 ## The see the Github repo, click [here](https://github.com/valehelle/srs)
 
-## You can view the document based on their tag making it easy to switch and compare.
+## You can view the document based on their branch making it easy to switch and compare.
 
 Here is an example of UML diagram drawing using Mermaidjs.
 
