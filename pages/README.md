@@ -1,4 +1,11 @@
-## this is login v2
+## This is an example of a documentation for a software requirements.
+
+## The see the Github repo, click [here](https://github.com/valehelle/srs)
+
+## You can view the document based on their tag making it easy to switch and compare.
+
+Here is an example of UML diagram drawing using Mermaidjs.
+
 ```mermaid
 sequenceDiagram
     Alice ->> Bob: Hello Bob, how are you?
@@ -12,5 +19,5 @@ sequenceDiagram
 ```
 
 
-
-[I'm a relative reference to a repository file](./register.md)
+This is an example of linking to another file. You don't need to care about the version, we will take care of it for you.
+[Im a link to the register file](./auth/register.md)
