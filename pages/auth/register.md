@@ -1,1 +1,1 @@
-this is register
+# This is an example of login for version 2
