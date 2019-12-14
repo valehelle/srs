@@ -1,8 +1,8 @@
-## This is an example of a documentation for a software requirements.
+# This is an example of a documentation for a software requirements.
 
-## The see the Github repo, click [here](https://github.com/valehelle/srs)
+To see see the Github repository, click [here](https://github.com/valehelle/srs)
 
-## You can view the document based on their branch making it easy to switch and compare.
+You can view the document based on their branch making it easy to switch and compare.
 
 Here is an example of UML diagram drawing using Mermaidjs.
 
@@ -19,7 +19,7 @@ sequenceDiagram
 ```
 
 
-## This is an example of linking to another file. You don't need to care about the version, we will take care of it for you.
+# This is an example of linking to another file.
 
 [Im a link to the register file](./auth/register.md)
 
