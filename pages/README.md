@@ -19,7 +19,7 @@ sequenceDiagram
 ```
 
 
-# This is an example of linking to another file.
+This is an example of linking to another file.
 
 [Im a link to the register file](./auth/register.md)
 
